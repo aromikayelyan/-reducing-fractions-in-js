@@ -1,6 +1,3 @@
-
-let n = '81/810'
-
 function snum(num) {
     let a = ''
     let b = ''
@@ -52,9 +49,7 @@ function foo(arr) {
 
 
 
-
-snum(n)
-snum('18/9')
+snum('14/21')
 
 
 
